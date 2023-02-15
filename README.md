@@ -14,3 +14,4 @@ Este es un proyecto hecho con React que nos da una calculadora de interés compu
 
 - Styled-components librery
 - Formik
+- Yup librery
